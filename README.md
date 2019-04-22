@@ -8,7 +8,7 @@ The features needed are as follows:
 
 - Sign up for a free API key from [Open Weather Map](https://openweathermap.org/), fetch a real 5-day forecast, and feed that data into your app.
 - Las Vegas city code id: 5506956
-- Sample api call: http://api.openweathermap.org/data/2.5/forecast?id={city id}&APPID={Api Key}
+- Sample api call: 'http://api.openweathermap.org/data/2.5/forecast?id={city id}&APPID={Api Key}'
 
 
 ## Hard Mode
